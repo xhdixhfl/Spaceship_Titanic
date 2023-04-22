@@ -31,8 +31,9 @@
 
 ## 개발도구 및 언어
 <div>
+<img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
+<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
 <img src="http://img.shields.io/badge/microsoftexcel-217346?style=round&logo=microsoftexcel&logoColor=white" />
-
 </div>
 
 ## 모델별 결과
