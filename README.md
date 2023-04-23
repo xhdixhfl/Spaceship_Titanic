@@ -7,6 +7,8 @@
 **1. 프로젝트 주제**: 우주선 탑승 고객의 차원이동 여부 예측 <br>
 **2. 프로젝트 목적**: 머신러닝 교육과정 중 배운 내용을 활용하여, 여러가지 예측 모델을 구현하고자 함 <br>
 **3. 기능** : xgboost, stacking ensemble, catboost등의 decision tree기반의 모델등을 활용하고자함
+<br>
+<br>
 
 ## 담당 역할
 **1. 데이터 탐색 및 전처리** <br>
@@ -35,17 +37,28 @@
 <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
 <img src="http://img.shields.io/badge/microsoftexcel-217346?style=round&logo=microsoftexcel&logoColor=white" />
 </div>
+<br>
 
 ## 모델별 결과
 *※ 22년도 11월 25일 기준 결과임을 밝힘 </u>*
 
 #### 1. XGboost  
+<div align=center>
+
 ![xgb](https://user-images.githubusercontent.com/114147352/233786952-8c81292f-55e0-4b3b-b190-a4a9c72e76c2.png)
-<br>
+
+</div> <br>
 
 #### 2. Stacking Ensemble  
+<div align=center>
+
 ![se](https://user-images.githubusercontent.com/114147352/233786914-26b30b61-f15a-4858-b5eb-80b085000d7a.png)
-<br>
+
+</div> <br>
 
 #### 3. CatBoost
+<div align=center>
+
 ![cat](https://user-images.githubusercontent.com/114147352/233786904-69a56cc2-9a06-463e-816e-9ae7fb702462.png)
+
+</div> 
